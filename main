@@ -1,0 +1,243 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="ko-kr"><head>
+  
+  <meta content="text/html;charset=UTF-8" http-equiv="Content-Type">
+
+  
+  <meta charset="UTF-8">
+
+  
+  <meta name="author" content="미래의 나">
+
+  
+  <meta name="description" content="2034년 Google 특별채용에 제출할 이력서">
+
+  
+  <meta name="keywords" content="이력서, 미래, Google, 취업">
+  <title>미래의 나 - Google 특별채용 이력서</title>
+
+  
+  
+  <style type="text/css">
+h2 {
+  font-style: italic;
+  font-size: 1.5em;
+  line-height: 1.4em;
+  color: #9eb0ff;
+  background-color: #dbe3eb;
+}
+img {
+  color: #006e00;
+}
+
+  </style>
+</head><body>
+<header> </header><span style="color: rgb(255, 204, 204);"></span>
+<hr style="background-color: green; width: 100%; height: 2px;"><span style="color: rgb(255, 204, 204);"></span>
+<h1 style="text-align: center;"><img style="width: 125px; height: 161px;" alt="증명사진" src="https://ait.kyonggi.ac.kr/%7Es202210201/image/my_image.jpeg"><br>
+</h1>
+
+<h1 style="text-align: center;">남은지<br>
+</h1>
+
+<p style="text-align: center; color: rgb(153, 153, 153);">미래의 나 -
+Google 특별채용 이력서</p>
+
+<p style="text-align: center;">☎ 010-0000-0000<br>
+</p>
+
+<hr style="background-color: green; width: 100%; height: 2px;">
+<div style="text-align: center;"> <a href="#family">가족관계</a> | <a href="#education">학력</a> | <a href="#career">경력</a> | <a href="#awards">수상내역</a> | <a href="#certifications">보유 자격증 | </a><a href="#project">참여 프로젝트<br>
+</a></div>
+
+&nbsp;
+<main><!-- 가족관계 섹션 시작 --> <section id="family"> </section></main>
+<h2>가족관계</h2>
+
+<img style="border: 2px solid ; width: 500px; height: 500px;" alt="가족사진" src="https://ait.kyonggi.ac.kr/%7Es202210201/image/family.jpeg">
+<table style="width: 100%;" border="1" cellpadding="2" cellspacing="0">
+
+  <tbody>
+    <tr style="color: white;">
+      <th style="background-color: rgb(76, 175, 80);" colspan="2">가족관계</th>
+    </tr>
+    <tr>
+      <td style="background-color: rgb(228, 228, 228);">부, 모<br>
+      </td>
+      <td style="background-color: rgb(228, 228, 228);">남XX, 김XX<br>
+      </td>
+    </tr>
+    <tr>
+      <td>자매<br>
+      </td>
+      <td>남XX<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="vertical-align: top; background-color: rgb(228, 228, 228);">배우자<br>
+      </td>
+      <td style="vertical-align: top; background-color: rgb(228, 228, 228);">김XX<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- 학력 섹션 시작 -->
+<section id="education"> </section>
+<h2>학력</h2>
+
+<table style="width: 100%;" border="1" cellpadding="2" cellspacing="0">
+
+  <tbody>
+    <tr style="color: white;">
+      <th style="background-color: rgb(76, 175, 80);" colspan="2">학력</th>
+    </tr>
+    <tr>
+      <td style="background-color: rgb(230, 230, 230);">고등학교<br>
+      </td>
+      <td style="background-color: rgb(230, 230, 230);">2019~2022 졸업 <br>
+      </td>
+    </tr>
+    <tr>
+      <td>대학교<br>
+      </td>
+      <td>경기대학교 문헌정보학과, 경영정보학과 졸업<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- 경력 섹션 시작 --> <section id="career"> </section>
+<h2>경력</h2>
+
+<table style="width: 100%;" border="1" cellpadding="2" cellspacing="0">
+
+  <tbody>
+    <tr style="color: white;">
+      <th style="background-color: rgb(76, 175, 80);" colspan="2">경력</th>
+    </tr>
+    <tr>
+      <td style="background-color: rgb(230, 230, 230);">2026 - 2028</td>
+      <td style="background-color: rgb(230, 230, 230);">스마일게이트 DB 관리자 입사<br>
+      </td>
+    </tr>
+    <tr>
+      <td>2028 - 2032</td>
+      <td>토스 데이터 엔지니어 입사<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color: rgb(230, 230, 230);">2032 - 현재</td>
+      <td style="background-color: rgb(230, 230, 230);">토스 데이터 분석가<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- 수상내역 섹션 시작 --> <section id="awards"> </section>
+<h2>수상내역</h2>
+
+<table style="width: 100%;" border="1" cellpadding="2" cellspacing="0">
+
+  <tbody>
+    <tr style="color: white;">
+      <th style="background-color: rgb(76, 175, 80);" colspan="2">수상내역</th>
+    </tr>
+    <tr>
+      <td style="background-color: rgb(230, 230, 230);">2026</td>
+      <td style="background-color: rgb(230, 230, 230);">스마일게이트 최우수 연구원상</td>
+    </tr>
+    <tr>
+      <td>2029</td>
+      <td>데이터베이스 혁신상<br>
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color: rgb(229, 229, 229);">2033</td>
+      <td style="background-color: rgb(229, 229, 229);">데이터 분야 노벨상</td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- 보유 자격증 섹션 시작 --> <section id="certifications"> </section>
+<h2>보유 자격증</h2>
+
+<table style="width: 100%;" border="1" cellpadding="2" cellspacing="0">
+
+  <tbody>
+    <tr style="color: white;">
+      <th style="background-color: rgb(76, 175, 80);" colspan="2" cellpadding="2">보유 자격증</th>
+    </tr>
+    <tr>
+      <td style="background-color: transparent;">자격증명</td>
+      <td>발급기관</td>
+    </tr>
+    <tr>
+      <td>SQLP<br>
+      </td>
+      <td>한국데이터산업진흥원<br>
+      </td>
+    </tr>
+    <tr>
+      <td>ADP<br>
+      </td>
+      <td>한국데이터산업진흥원<br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- 참여 프로젝트 섹션 시작 -->
+&nbsp;
+<h2>프로젝트<br>
+<section id="project"></section>
+</h2>
+
+<ol>
+
+  <li>XX기업의 데이터품질 현황 및 예측</li>
+  <li>XX기관의 데이터 통합 프레임워크 프로젝트</li>
+  <li>유통업계 판매량과 날씨 연관 데이터분석 프로젝트 <br>
+  </li>
+  <br>
+</ol>
+
+<hr style="background-color: green; width: 100%; height: 2px;"> <footer>
+</footer>
+<h2>외부 링크</h2>
+
+<ul>
+
+  <li><a href="https://www.google.com" target="_blank">미래 직장 Google 홈페이지</a></li>
+  <li><a href="https://www.dataq.or.kr/www/main.do" target="_blank">한국데이
+터산업진흥 홈페이지</a></li>
+  <li><a href="https://github.com/" target="_blank">관련 프로젝트 깃허브 홈페이지</a></li>
+  <li><a href="https://toss.im/career" target="_blank">토스 채용 홈페이지 홈페이지</a></li>
+  <li><a href="https://www.smilegate.com/ko/" target="_blank">스마일게이트
+홈페이지</a></li>
+</ul>
+
+<hr style="background-color: green; width: 100%; height: 2px;">
+<dl>
+
+</dl>
+
+<h2>프로젝트 세부 설명<br>
+</h2>
+
+<dl>
+
+  <dt>XX기업의 데이터품질 현황 및 예측 </dt>
+  <dd>기업에서의 데이터를 분석해 2년간 분석을 진행한 분석 결과</dd>
+  <dt><br>
+  </dt>
+  <dt>XX기관의 데이터 통합 프레임워크 프로젝트 </dt>
+  <dd>기관에서의 데이터를 사용해 통합 및 정제해 ERP시스템을 구축한 프로젝트</dd>
+  <dt><br>
+  </dt>
+  <dt>유통업계 판매량과 날씨 연관 데이터분석 프로젝트 </dt>
+  <dd>유통업계와의 협업으로 날씨 및 판매량의 데이터로 연관 분석을 하여 의미있는 결과를 도출해낸 프로젝트<br>
+  </dd>
+</dl>
+
+</body></html>
